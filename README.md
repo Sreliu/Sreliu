@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Eliu Asencio
 
-<!--
-**Sreliu/Sreliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+🧠 Apasionado por las Bases de Datos, SQL y la Automatización  
+💼 Técnico de Servicio | En formación como Analista de Datos  
+🌎 Guatemala | Disponible para proyectos freelance remotos
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+- SQL Server, Power BI
+- Transact-SQL (T-SQL), PL/SQL
+- Modelado de datos (MER, MR)
+- Git & GitHub | Visual Studio Code
+
+---
+
+## 📁 Proyectos Destacados
+
+🔹 [Sistema de Biblioteca en MySQL](https://github.com/)  
+
+
+---
+
+## 📫 Contáctame
+
+- ✉️ eliu.asencio@example.com
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+  
+---
+
+- 🔭 I’m currently working on Data Analytics
+- 🌱 I’m currently learning Python for Data Science
+- ⚡ Fun fact: I love to play Chess
