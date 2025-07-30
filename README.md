@@ -19,15 +19,15 @@
 
 ## 📁 Proyectos Destacados
 
-🔹 [Sistema de Biblioteca en MySQL](https://github.com/)  
+🔹 [Sistema Gestor de Flota Vehicular ][https://github.com/Sreliu/Gestor-Flota-Vehicular]
 
 
 ---
 
 ## 📫 Contáctame
 
-- ✉️ eliu.asencio@example.com
-- 💼 [LinkedIn](https://www.linkedin.com)
+- ✉️ eliuasencio3.5@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/eliu-asencio-910aba308/)
 
   
 ---
