@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Sistemas  
 🧠 Apasionado por las Bases de Datos, SQL y la Automatización  
-💼 Técnico de Servicio | En formación como Analista de Datos  
+💼 Técnico de Servicio | En formación como Analista de Datos / DBA 
 🌎 Guatemala | Disponible para proyectos freelance remotos
   
 
@@ -29,7 +29,6 @@
 - ✉️ eliuasencio3.5@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/eliu-asencio-910aba308/)
 
-  
 ---
 
 - 🔭 I’m currently working on Data Analytics
